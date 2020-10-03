@@ -1,0 +1,21 @@
+{
+  "name": "hackerrank_restapi_intermediate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Shubham Vernekar",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {},
+  "description": "HackerRank restApi intermediate certification test solution",
+  "keywords": [
+    "hackerrank",
+    "restApi",
+    "certification",
+    "test"
+  ]
+}
